@@ -30,10 +30,17 @@
 }
 ,
 {
-"title" : "Farmer Channel",
-"link" : "https://cdn-globalnet-01.akamaized.net/Content/DASH/Live/channel(fca755f5-5090-41fd-bf2c-1c0049947d25)/1589515429431item-05item_Segment-34833326334850.m4v",
+"title" : "Mahar BawDi",
+"link" : "https://104275ooyala-lh.akamaihd.net/i/forevergroup_01@449365/index_450_av-b.m3u8",
 "vol" : "Department of Agricultural Research (DAR), formerly known as Agricultural Research Institute (ARI), is the only one research center of our country, Myanmar, for more than 6 decades now.",
-"cover" : "https://www.myanmartvchannels.com/assets/images/channeliconb/farmer.jpg"
+"cover" : "https://www.myanmartvchannels.com/assets/images/channeliconb/maharbawdi.jpg"
+}
+,
+{
+"title" : "Mizzima",
+"link" : "https://l1-xl1.myanmarnet.com/relay/mizzima/ch1/stream_hi/index.m3u8",
+"vol" : "Department of Agricultural Research (DAR), formerly known as Agricultural Research Institute (ARI), is the only one research center of our country, Myanmar, for more than 6 decades now.",
+"cover" : "https://www.myanmartvchannels.com/assets/images/channeliconb/mizzima.jpg"
 }
 ]
 }
