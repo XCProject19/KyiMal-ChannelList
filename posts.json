@@ -2,6 +2,13 @@
 "allchannel":
 [
 {
+"title" : "Mahar",
+"link" : "https://maharlive.b-cdn.net/stream.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny83LzIwMjAgODozODo1NCBBTSZoYXNoX3ZhbHVlPUJGT2ZlN0ZGMkw0NkR6TXdhQUgwdFE9PSZ2YWxpZG1pbnV0ZXM9MSZpZD01",
+"vol" : "MRTV-4 is a 24-hour free-to-air television channel that broadcasts entertainment programs.",
+"cover" : "https://www.myanmartvchannels.com/assets/images/channeliconb/mahar.jpg"
+}
+,
+{
 "title" : "MRTV-4",
 "link" : "https://104275ooyala-lh.akamaihd.net/i/forevergroup_02@449366/index_450_av-p.m3u8",
 "vol" : "MRTV-4 is a 24-hour free-to-air television channel that broadcasts entertainment programs.",
